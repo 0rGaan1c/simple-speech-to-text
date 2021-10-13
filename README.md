@@ -2,8 +2,8 @@
 
 A very simple speech to text script that I wrote in Python (using [SpeechRecognition](https://pypi.org/project/SpeechRecognition/) & [PyAudio](https://pypi.org/project/PyAudio/) library) for LocalHackDay challenge.
 
-### ScreenShot for `main.py`
+### `main.py` demo.
 ![main](./demo_main.PNG)
 
-### ScreenShot for `game.py`
+### `game.py` demo.
 ![game](./demo_game.PNG)
